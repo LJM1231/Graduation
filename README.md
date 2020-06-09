@@ -2,6 +2,7 @@
 
 </br>졸업작품
 </br>Polirone (Police + Drone) : 따라다니는 LED 안심드론
+</영상 : https://youtu.be/rb-IoSaG1yE
 </br>개발 기간 : 2018.09 ~ 2019.11
 </br>본인 역할 : 임베디드 S/W, 리눅스 S/W, 영상 S/W
 
