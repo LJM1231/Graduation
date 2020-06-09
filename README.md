@@ -10,3 +10,5 @@
 </br>-Language - C, C++, Java, XML, PHP, SQL
 </br>-Protocols - MAV Link, UDP, RTSP
 </br>-Networks - VPN, LTE
+
+</br>2019 한이음 멘토링 
