@@ -7,3 +7,4 @@
 </br>-Language - C, C++, Java, XML, PHP, SQL
 </br>-Protocols - MAV Link, UDP, RTSP
 </br>-Networks - VPN, LTE
+</br>본인 역할 : 임베디드 S/W, 리눅스 S/W, 영상 S/W
